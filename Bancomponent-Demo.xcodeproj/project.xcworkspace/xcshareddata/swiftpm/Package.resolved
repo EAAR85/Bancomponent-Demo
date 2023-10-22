@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "bancomponent",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EAAR85/Bancomponent",
+      "state" : {
+        "branch" : "0.1.0",
+        "revision" : "3b33421cfe2bdb796db184ed061ceaac6e1f5413"
+      }
+    }
+  ],
+  "version" : 2
+}
