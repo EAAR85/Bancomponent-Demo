@@ -13,7 +13,6 @@
 		652C79262AE570EC004FACAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 652C79242AE570EC004FACAD /* Main.storyboard */; };
 		652C79282AE570ED004FACAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 652C79272AE570ED004FACAD /* Assets.xcassets */; };
 		652C792B2AE570ED004FACAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 652C79292AE570ED004FACAD /* LaunchScreen.storyboard */; };
-		652E19382AE57F020078197B /* TextFieldIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 652E19372AE57F020078197B /* TextFieldIndicator.swift */; };
 		652E193B2AE585DF0078197B /* Bancomponent in Frameworks */ = {isa = PBXBuildFile; productRef = 652E193A2AE585DF0078197B /* Bancomponent */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +25,6 @@
 		652C79272AE570ED004FACAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		652C792A2AE570ED004FACAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		652C792C2AE570ED004FACAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		652E19372AE57F020078197B /* TextFieldIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldIndicator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +66,6 @@
 				652C79272AE570ED004FACAD /* Assets.xcassets */,
 				652C79292AE570ED004FACAD /* LaunchScreen.storyboard */,
 				652C792C2AE570ED004FACAD /* Info.plist */,
-				652E19372AE57F020078197B /* TextFieldIndicator.swift */,
 			);
 			path = "Bancomponent-Demo";
 			sourceTree = "<group>";
@@ -158,7 +155,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				652C79232AE570EC004FACAD /* ViewController.swift in Sources */,
-				652E19382AE57F020078197B /* TextFieldIndicator.swift in Sources */,
 				652C791F2AE570EC004FACAD /* AppDelegate.swift in Sources */,
 				652C79212AE570EC004FACAD /* SceneDelegate.swift in Sources */,
 			);
